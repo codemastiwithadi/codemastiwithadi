@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/aditya-kumar-singh-1467a9322/)
 
-- 🤝 I’m looking for help with [Telegram](https://t.me/codemastiwithadi153)
+- 🤝 I’m looking for help with [Telegram](https://t.me/codemastiwithaditya)
 
 - 💬 Ask me about **Full Stack Web Development**
 
