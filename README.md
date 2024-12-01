@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Full Stack Web Development**
 
-- 📫 How to reach me **kumaraditya32003@gmail.com**
+- 📫 How to reach me **kumaraditya713363@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
