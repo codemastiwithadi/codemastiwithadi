@@ -1,4 +1,4 @@
-
+![MasterHead](https://res.cloudinary.com/jerrick/image/upload/v1722245178/66a76039f93c2f001cfef67b.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/codemastiwithadi" target="blank"><img src="https://img.shields.io/twitter/follow/codemastiwithadi?logo=twitter&style=for-the-badge" alt="codemastiwithadi" /></a> </p>
 
-- 🔭 I’m currently working on [You-tubers](https://www.youtube.com/@codemastiwithadi)
+- 🔭 I’m currently working on [You-tubers](https://www.youtube.com/@codefusionacademy)
 
 - 🌱 I’m currently learning **B-Tech Pre-Final Year Student from Information Technology**
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/aditya-kumar-singh-1467a9322/)
 
-- 🤝 I’m looking for help with [Telegram](https://t.me/codemastiwithaditya)
+- 🤝 I’m looking for help with [Telegram](https://t.me/aditya_kumar1533)
 
 - 💬 Ask me about **Full Stack Web Development**
 
@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codemastiwithadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codemastiwithadi" height="30" width="40" /></a>
+<a href="https://twitter.com/aks1533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aks1533" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-singh-a501a3253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kumar-singh-1467a9322/" height="30" width="40" /></a>
-<a href="https://instagram.com/codemastiwithadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codemastiwithadi" height="30" width="40" /></a>
+<a href="https://instagram.com/____aks15____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aks15" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codemasti with adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codemasti with adi" height="30" width="40" /></a>
 </p>
 
