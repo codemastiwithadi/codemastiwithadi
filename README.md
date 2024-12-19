@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/jerrick/image/upload/v1722245178/66a76039f93c2f001cfef67b.jpg)
+![MasterHead](https://www.signaturewrite.com/s/sig/index.php?name=aditya-kumar-singh&f=146)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemastiwithadi&label=Profile%20views&color=0e75b6&style=flat" alt="codemastiwithadi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/codemastiwithadi" target="blank"><img src="https://img.shields.io/twitter/follow/codemastiwithadi?logo=twitter&style=for-the-badge" alt="codemastiwithadi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aks1533" target="blank"><img src="https://img.shields.io/twitter/follow/aks1533?logo=twitter&style=for-the-badge" alt="aks1533" /></a> </p>
 
 - 🔭 I’m currently working on [You-tubers](https://www.youtube.com/@codefusionacademy)
 
