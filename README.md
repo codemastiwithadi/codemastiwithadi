@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/b15faf1d-bc1c-46c5-b6b1-0f5fba07d74e)
+![MasterHead](https://github.com/user-attachments/assets/6765f6dc-9a97-4181-8996-675a149e7a3b)
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 <h3 align="center">A passionate full stack web development from India</h3>
 
